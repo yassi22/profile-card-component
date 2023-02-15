@@ -64,4 +64,10 @@ max-width: 30em;
     font-weight: 400;
     color:hsl(227, 10%, 46%);
     font-size: 1em;
+} 
+
+.social-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
