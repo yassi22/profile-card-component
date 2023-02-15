@@ -2,6 +2,10 @@ body{
     margin:0; 
     padding: 0;
     background-color: hsl(185, 75%, 39%);
+    min-height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
 } 
 
 .flex-container{ 
