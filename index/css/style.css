@@ -76,5 +76,11 @@ max-width: 30em;
     font-family: 'Kumbh', sans-serif;
     font-weight: 700;  
     font-size: 1.5em;  
+} 
+
+.social-container-bottom{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
 }
  
