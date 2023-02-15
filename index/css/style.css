@@ -56,4 +56,12 @@ max-width: 30em;
     color:hsl(227, 10%, 46%);
     font-size: 1.3em;
 
+} 
+
+.title-location{
+    font-family: 'Kumbh', sans-serif;  
+    text-align: center;
+    font-weight: 400;
+    color:hsl(227, 10%, 46%);
+    font-size: 1em;
 }
