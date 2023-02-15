@@ -83,4 +83,11 @@ max-width: 30em;
     justify-content: space-around;
     align-items: center; 
 }
+
+.title-social-bottom{ 
+    font-family: 'Kumbh', sans-serif;  
+    color:hsl(227, 10%, 46%);
+    font-size: 1em;
+    font-weight: 400;
+}
  
