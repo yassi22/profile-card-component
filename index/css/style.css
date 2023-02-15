@@ -20,4 +20,13 @@ height: 100%;
 width: 100%;
 max-width: 30em; 
 
+} 
+
+.svg-pattern-top-card{ 
+     width: 100%;
+}
+
+.person-image{ 
+    border-radius: 100%;
+    
 }
