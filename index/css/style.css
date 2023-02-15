@@ -70,4 +70,11 @@ max-width: 30em;
     display: flex;
     justify-content: space-around;
     align-items: center;
+} 
+
+.heading-social{ 
+    font-family: 'Kumbh', sans-serif;
+    font-weight: 700;  
+    font-size: 1.5em;  
 }
+ 
