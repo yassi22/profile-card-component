@@ -81,7 +81,7 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
     display: flex;
     justify-content: center; 
     align-items: center;
-    gap: 30px;
+    gap: 25px;
 }
 
 .heading-social{ 
