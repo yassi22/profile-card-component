@@ -68,8 +68,11 @@ max-width: 30em;
 
 .social-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+    flex-direction: row ;
+    flex-wrap: wrap;
+  
 } 
 
 .heading-social{ 
