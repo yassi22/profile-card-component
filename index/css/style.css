@@ -77,6 +77,13 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
   
 } 
 
+.social-container-top{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 30px;
+}
+
 .heading-social{ 
     font-family: 'Kumbh', sans-serif;
     font-weight: 700;  
