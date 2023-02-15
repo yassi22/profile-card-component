@@ -29,4 +29,13 @@ max-width: 30em;
 .person-image{ 
     border-radius: 100%;
     
+} 
+
+.svg-card-top{
+    width: 30em;
+     
+}
+
+.info-container{
+    
 }
