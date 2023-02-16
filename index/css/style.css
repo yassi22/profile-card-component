@@ -107,7 +107,7 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
 
 }
 
-
+ 
 ul {
     list-style: none;
      text-align: center;
@@ -128,4 +128,11 @@ li {
     flex: 0 1 auto;
 }
 
+.container{ 
+ display: flex;
+ justify-content: center;
+ gap:25px;
+ align-items: center;
+ 
+ }
  
