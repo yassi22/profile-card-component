@@ -141,6 +141,12 @@ li {
     font-size: 1.5em;  
 } 
 
+.smaller-heading{
+font-weight: 400;  
+font-family: 'Kumbh', sans-serif; 
+color:hsl(0, 0%, 59%); 
+}
+
   
  
 /*  
