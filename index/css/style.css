@@ -107,14 +107,22 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
 ul {
     list-style: none;
      text-align: center;
-     margin:10px; 
+     display: flex;
+     justify-content: space-evenly;
+     align-items: stretch;
+     margin: 0;
+     padding: 0;
+     width: 100%;
      
 }
 
-ul li {
-    display: inline;
+ 
+
+li {
+    display: block;
     text-align: center;
-    margin: 10px;
+    margin: 5px; 
+    flex: 0 1 auto;
 }
 
  
