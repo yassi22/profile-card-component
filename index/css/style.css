@@ -45,6 +45,7 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
     font-weight: 700;  
     font-size: 1.5em;
     text-align: center;
+    display: inline-block;
 } 
 
 .title-age{ 
@@ -53,6 +54,7 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
     font-weight: 400;
     color:hsl(227, 10%, 46%);
     font-size: 1.3em;
+    display: inline-block;
 
 } 
 
@@ -120,6 +122,11 @@ font-weight: 400;
 font-family: 'Kumbh', sans-serif; 
 color:hsl(0, 0%, 59%); 
 }
+
+.center-text{ 
+    text-align: center;
+} 
+
 
   
  
