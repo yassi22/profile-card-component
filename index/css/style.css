@@ -22,7 +22,6 @@ width: 100%;
 max-width: 30em; 
 box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
  
-
 } 
 
 .svg-pattern-top-card{ 
@@ -129,6 +128,19 @@ li {
  align-items: center;
  
  }
+
+.follower-count{ 
+    font-family: 'Kumbh', sans-serif;
+    font-weight: 600; 
+} 
+
+li {
+    display: block;
+    text-align: center;
+    margin: 5px; 
+    flex: 0 1 auto;  
+    font-family: 'Kumbh', sans-serif;
+}
 
 
  
