@@ -26,6 +26,10 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
 
 .person-image{ 
     border-radius: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
     
 } 
 
