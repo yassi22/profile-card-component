@@ -33,12 +33,13 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
 
     
 } 
-
-.svg-card-top{
+ 
+.svg-div-top{ 
+    background-image: url(/index/img/bg-pattern-card.svg); 
     width: 30em;
-     
+    height: auto;
+    background-repeat: no-repeat;
 }
-
 
  
 .title-name{
