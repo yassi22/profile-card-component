@@ -91,9 +91,9 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
 } 
 
 .social-container-bottom{ 
-    display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center; 
+    display: flex;
 }
 
 .title-social-bottom{ 
@@ -115,7 +115,6 @@ ul li {
     display: inline;
     text-align: center;
     margin: 10px;
-    
 }
 
  
