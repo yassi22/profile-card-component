@@ -136,3 +136,17 @@ li {
  
  }
  
+
+ .svg-corner-top{ 
+    position: absolute;
+    top: 0;
+    left: 0;
+ }  
+
+ 
+ .svg-corner-bottom{ 
+    position: absolute;
+  bottom: 0;
+  right: 0;
+ } 
+
