@@ -33,12 +33,11 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
  
 .svg-div-top{ 
     background-image: url(../img/bg-pattern-card.svg); 
-    height: auto;
+    height: 12rem;
     background-repeat: no-repeat;
     border-radius: 10px 10px 0px 0px;
-    background-size: 500px 300px;
+    background-size: 500px 170px;
 
-   
 }
 
  
