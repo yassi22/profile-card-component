@@ -16,31 +16,27 @@ background-color: white;
 border-radius: 15px;
 height: 100%;
 width: 100%;
-max-width: 30em; 
+min-width: 30em; 
 box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
  
 } 
 
-.svg-pattern-top-card{ 
-     width: 100%;
-}
-
+ 
 .person-image{ 
     border-radius: 100%;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
     border: white solid;
     
 } 
  
 .svg-div-top{ 
     background-image: url(../img/bg-pattern-card.svg); 
-    width: 30em;
     height: auto;
     background-repeat: no-repeat;
     border-radius: 10px 10px 0px 0px;
-    display: flex;
+   
 }
 
  
@@ -71,8 +67,7 @@ box-shadow: 0 14px 16px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);
     font-size: 1em;
 } 
 
-
-
+ 
  
 .line{
 
@@ -131,9 +126,7 @@ color:hsl(0, 0%, 59%);
 .center-text{ 
     text-align: center;
 } 
-
-
-  
+ 
  
 /*  
  .svg-corner-top{ 
