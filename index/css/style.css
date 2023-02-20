@@ -129,20 +129,22 @@ color:hsl(0, 0%, 59%);
     text-align: center;
 } 
  
- 
-/*  
- .svg-corner-top{ 
-    position: absolute;
-    top: 0;
-    left: 0;
-    transform:translate(2px, 3px)
- }  
+.svg-background-top{ 
+    background-image: url(../img/bg-pattern-top.svg); 
+    opacity: 80%;
+    background-size: 900px 900px; 
+    background-repeat: no-repeat; 
+    display: block;
+    width: 900px;
+    height: 900px;
+}  
 
- 
- .svg-corner-bottom{ 
-    position: absolute;
-  bottom: 0;
-  right: 0;
- } 
-
- */
+.svg-background-bottom{ 
+    background-image: url(../img/bg-pattern-top.svg); 
+    opacity: 80%;
+    background-size: 900px 900px; 
+    background-repeat: no-repeat; 
+    display: block; 
+    width: 900px;
+    height: 900px;
+} 
