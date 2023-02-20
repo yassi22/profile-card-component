@@ -125,9 +125,7 @@ font-family: 'Kumbh', sans-serif;
 color:hsl(0, 0%, 59%); 
 }
 
-.center-text{ 
-    text-align: center;
-} 
+ 
  
 .svg-background-top{ 
     background-image: url(../img/bg-pattern-top.svg); 
@@ -137,14 +135,19 @@ color:hsl(0, 0%, 59%);
     display: block;
     width: 900px;
     height: 900px;
+    align-self:flex-start;
 }  
+
+
+.center-text{ 
+    text-align: center;
+} 
 
 .svg-background-bottom{ 
     background-image: url(../img/bg-pattern-top.svg); 
     opacity: 80%;
     background-size: 900px 900px; 
     background-repeat: no-repeat; 
-    display: block; 
     width: 900px;
     height: 900px;
 } 
